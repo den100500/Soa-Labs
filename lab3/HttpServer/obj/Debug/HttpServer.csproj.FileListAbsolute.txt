@@ -1,0 +1,25 @@
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Debug\HttpServer.exe.config
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Debug\HttpServer.exe
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Debug\HttpServer.pdb
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\obj\Debug\HttpServer.exe
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\obj\Debug\HttpServer.pdb
+C:\C++\lab3\HttpServer\bin\Debug\HttpServer.exe.config
+C:\C++\lab3\HttpServer\obj\Debug\HttpServer.exe
+C:\C++\lab3\HttpServer\obj\Debug\HttpServer.pdb
+C:\C++\lab3\HttpServer\bin\Debug\HttpServer.exe
+C:\C++\lab3\HttpServer\bin\Debug\HttpServer.pdb
+C:\C++\lab3\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+L:\lab3\HttpServer\bin\Debug\HttpServer.exe.config
+L:\lab3\HttpServer\obj\Debug\HttpServer.exe
+L:\lab3\HttpServer\obj\Debug\HttpServer.pdb
+L:\lab3\HttpServer\bin\Debug\HttpServer.exe
+L:\lab3\HttpServer\bin\Debug\HttpServer.pdb
+L:\lab3\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+I:\lab3\HttpServer\bin\Debug\HttpServer.exe.config
+I:\lab3\HttpServer\obj\Debug\HttpServer.exe
+I:\lab3\HttpServer\obj\Debug\HttpServer.pdb
+F:\7 семестр\РиАТ при ППС\Soa-Labs\lab3\HttpServer\bin\Debug\HttpServer.exe.config
+F:\7 семестр\РиАТ при ППС\Soa-Labs\lab3\HttpServer\obj\Debug\HttpServer.exe
+F:\7 семестр\РиАТ при ППС\Soa-Labs\lab3\HttpServer\obj\Debug\HttpServer.pdb

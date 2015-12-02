@@ -1,0 +1,5 @@
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Release\HttpServer.exe.config
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Release\HttpServer.exe
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\bin\Release\HttpServer.pdb
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\obj\Release\HttpServer.exe
+F:\7 семестр\РиАТ при ППС\lab3\HttpServer\obj\Release\HttpServer.pdb
