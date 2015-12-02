@@ -1,0 +1,11 @@
+L:\lab2\HttpClient\bin\Release\HttpClient.exe.config
+L:\lab2\HttpClient\bin\Release\HttpClient.exe
+L:\lab2\HttpClient\bin\Release\HttpClient.pdb
+L:\lab2\HttpClient\obj\Release\HttpClient.exe
+L:\lab2\HttpClient\obj\Release\HttpClient.pdb
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Release\HttpClient.exe.config
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Release\HttpClient.exe
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Release\HttpClient.pdb
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Release\HttpClient.csprojResolveAssemblyReference.cache
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Release\HttpClient.exe
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Release\HttpClient.pdb

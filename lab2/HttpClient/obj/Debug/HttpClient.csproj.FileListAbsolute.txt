@@ -1,0 +1,22 @@
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\HttpClient\bin\Debug\HttpClient.exe.config
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Debug\HttpClient.exe.config
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Debug\HttpClient.exe
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\bin\Debug\HttpClient.pdb
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Debug\HttpClient.exe
+F:\7 семестр\РиАТ при ППС\lab2\HttpClient\obj\Debug\HttpClient.pdb
+C:\C++\lab2\HttpClient\bin\Debug\HttpClient.exe.config
+C:\C++\lab2\HttpClient\obj\Debug\HttpClient.exe
+C:\C++\lab2\HttpClient\obj\Debug\HttpClient.pdb
+C:\C++\lab2\HttpClient\bin\Debug\HttpClient.exe
+C:\C++\lab2\HttpClient\bin\Debug\HttpClient.pdb
+C:\C++\lab2\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+L:\lab2\HttpClient\bin\Debug\HttpClient.exe.config
+L:\lab2\HttpClient\obj\Debug\HttpClient.exe
+L:\lab2\HttpClient\obj\Debug\HttpClient.pdb
+L:\lab2\HttpClient\bin\Debug\HttpClient.exe
+L:\lab2\HttpClient\bin\Debug\HttpClient.pdb
+L:\lab2\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+I:\lab2\HttpClient\bin\Debug\HttpClient.exe.config
+I:\lab2\HttpClient\obj\Debug\HttpClient.exe
+I:\lab2\HttpClient\obj\Debug\HttpClient.pdb
